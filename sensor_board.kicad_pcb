@@ -638,7 +638,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c3e335fd-3048-417b-b019-d783a4ec07bd)
     )
-    (fp_text value "1uF / 6.3V" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "22 uF / 6.3V" (at 0 1.43 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4902cead-8033-4d1b-ab84-7e0a9b66a38d)
     )
@@ -2760,7 +2760,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ac6f1b13-ff59-471d-bf9a-15eac552e701)
     )
-    (fp_text value "1uF / 10V" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "22 uF / 10V" (at 0 1.43 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 04845a0b-2da2-4c15-8ae4-df1f9c395211)
     )
